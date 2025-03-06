@@ -1,0 +1,16 @@
+body{
+    background-color:lightblue
+}
+h1{
+    color:red;
+}
+h2{
+    color:green;
+}
+#12{
+    font-size: large;
+    font-family: "Comic Sans MS";
+}
+class:clase1{
+    color: green;
+}
